@@ -1,0 +1,13 @@
+ <image class='moon'
+    src='../image/moon.png'>
+   </image>
+   
+   <input   placeholder="请输入你的心情" bindinput="getMood" class="mood"></input>
+   
+   <button class="jump" bindtap="upload">上传心情</button>
+    <button class="jump" bindtap="get">测试心情</button>
+
+   <button bindtap="jump"  class="jump">
+   <view>开始</view>
+   </button>
+   

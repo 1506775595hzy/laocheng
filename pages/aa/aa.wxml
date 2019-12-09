@@ -1,0 +1,17 @@
+<view class="image1">
+<image src="../image/1.png" mode="aspectFill" class="image1"></image>
+</view>
+<button class="jump1" bindtap="jump1"  >
+<image class="music" src="../image/music.png"></image>
+<view>挑选音乐类型</view>
+</button>
+<button class="jump1" bindtap="jump2" >
+<image class="music" src="../image/mood.png"></image>
+<view>选择心情模式</view>
+</button>
+
+
+<button class="jump1" bindtap="jump3" >
+<image class="music" src="../image/time.png"></image>
+设置专注时长
+</button>
