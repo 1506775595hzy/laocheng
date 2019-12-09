@@ -1,0 +1,27 @@
+page{
+  background-size:100% 100%; 
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575708168411&di=f0f22383f1b4b021b22da78694e54026&imgtype=0&src=http%3A%2F%2Fpic178.nipic.com%2Ffile%2F20180823%2F10673188_173838471084_2.jpg) ;
+}
+.radio-group1{
+  background-color: wheat;
+  display: flex;
+  border-radius: 0px;
+  font-size: 20px;
+  
+}
+.radio-group1 radio{
+  display:none;
+}
+.radio{
+  text-align: center;
+  flex: 1px;
+  border-right: 1px solid greenyellow
+}
+.radio :last-child{
+border-right:0;
+}
+.text1{
+ text-align: center;
+ color: pink;
+ font-size: 20px;
+}

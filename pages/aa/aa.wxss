@@ -1,0 +1,24 @@
+.image1{
+  text-align: center
+}
+.jump1{
+  width: 80%;
+  margin-top: 20px;
+  background-color: beige;
+  color: greenyellow;
+  border-radius: 98rpx; 
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+} 
+.jump1::after{
+  border-radius: 98rpx;
+}
+.music{
+  
+  margin-right: 8rpx;
+  width: 46rpx;
+  height: 46rpx;
+
+}

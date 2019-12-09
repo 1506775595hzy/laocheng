@@ -1,0 +1,29 @@
+page{
+  background-size:100% 100%; 
+  background-image: url(http://pic.51yuansu.com/backgd/cover/00/06/58/5b683a3013fbb.jpg!/fw/780/quality/90/unsharp/true/compress/true) ;
+  background-color: rgba(97, 97, 97, 0.062)
+}
+
+.moon{
+  margin-top:35px;
+}
+.mood{
+  text-align: center;
+  height: 30px;
+}
+.jump {
+  
+
+  width: 80%;
+  margin-top: 50rpx;
+  background-color: rgb(32, 69, 170);
+  color: white;
+  border-radius: 98rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+

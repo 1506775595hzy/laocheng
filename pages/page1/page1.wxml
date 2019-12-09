@@ -1,0 +1,9 @@
+<checkbox-group bindchange="checkboxChange">
+
+ 
+  
+  <!--checkbox-group标签包裹多个checkbox标签，数据通过.js中的变量获取-->
+  <label class="checkbox" wx:for="{{items}}">
+    <checkbox value="{{item.name}}" checked="{{item.checked}}" disabled="{{item.disabled}}"/>{{item.value}}
+  </label>
+</checkbox-group>
